@@ -1,0 +1,9 @@
+body{                                    /*Border after all the existing and future elements*/
+        border-bottom: 1px solid ;
+        padding-bottom: 0.5em;      
+}
+
+header,h1,article,footer{      /*Border after each element*/
+    border-bottom: 2px solid;
+}  
+
